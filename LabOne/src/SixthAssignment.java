@@ -1,4 +1,7 @@
-
+/**
+ * @author Ap00rva
+ * Date: 5/1/2021
+ */
 public class SixthAssignment {
 	private static int calculateDifference(int n)
 	{ int sumOfSquares, squareOfSum,sum;

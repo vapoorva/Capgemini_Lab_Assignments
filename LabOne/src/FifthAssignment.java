@@ -1,4 +1,12 @@
-
+/**
+ * 
+ * @author Ap00rva
+ * date : 4/1/2021
+ * 
+ * Create a class with a method which 
+ * can calculate the sum of first n natural numbers 
+ * which are divisible by 3 or 5.
+ */
 public class FifthAssignment {
 	
 	private static int calculateSum(int n) {

@@ -1,4 +1,10 @@
-
+/**
+ * 
+ * @author Ap00rva
+ * Date: 4/1/2021
+ * Create a method to find the sum of the cubes
+ *  of the digits of an n digit number
+ */
 public class FirstAssignment {
 	private static int SumOfCubes(int n)
 	{

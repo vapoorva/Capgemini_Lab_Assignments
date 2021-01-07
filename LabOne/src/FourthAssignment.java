@@ -1,3 +1,9 @@
+
+/**
+ * 
+ * @author Ap00rva
+ * Date: 4/1/2021
+ */
 import java.util.Scanner;
 public class FourthAssignment {
 	private static void Prime(int n)

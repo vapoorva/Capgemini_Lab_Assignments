@@ -1,3 +1,8 @@
+/**
+ * @author Ap00rva
+ * Date: 5/1/2021
+ */
+
 import java.util.Scanner;
 public class SecondAssignment {
 	private static void Signal( String n)
